@@ -25,7 +25,7 @@ function Navbar() {
         </li>
         <li>
           <Link to="/reporte" className="nav-link text-white">
-            REPORTESGT
+            REPORTES
           </Link>
         </li>
         <li>
@@ -38,7 +38,7 @@ function Navbar() {
       <div className="">
         <Link to="#" className="d-flex align-items-center text-white ">
           <img
-            src={user.photo}
+            src={""}
             alt=""
             width="32"
             height="32"
